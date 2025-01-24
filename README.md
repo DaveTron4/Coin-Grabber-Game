@@ -24,3 +24,34 @@ To play the game locally, follow these steps:
    ```bash
    git clone https://github.com/DaveTron4/Coin-Grabber-Game.git
    cd Coin-Grabber-Game
+
+2. Install the required dependencies: Ensure you have Python installed. Then, install Pygame:
+
+  ```bash
+  pip install pygame
+  ```
+
+3. Run the game:    
+  ```bash
+  python main.py
+  ```
+
+## 🎓 Learning Outcome
+
+This project helped me:
+
+- Understand the fundamentals of computer graphics.
+- Learn how to use Pygame to render graphics and handle user input.
+- Improve my problem-solving skills by implementing randomization with the `random` module.
+
+## 🖼️ Screenshot
+
+_(Add a screenshot of your game here to make the README more engaging.)_
+
+## 📜 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+## 🤝 Contributing
+
+Feel free to fork this repository, submit issues, or suggest improvements! Contributions are always welcome.
