@@ -119,16 +119,16 @@ continue_rect = continue_text.get_rect()
 continue_rect.center = (WINDOW_WIDTH//2, WINDOW_HEIGHT//2 + 32)
 
 #Set sounds and music
-coin_sound = pygame.mixer.Sound("coin_sound.mp3")
+coin_sound = pygame.mixer.Sound("assets/coin_sound.mp3")
 coin_sound.set_volume(0.3)
-miss_sound = pygame.mixer.Sound("coin_sound.mp3")
+miss_sound = pygame.mixer.Sound("assets/coin_sound.mp3")
 miss_sound.set_volume(.1)
-pygame.mixer.music.load("mario_galaxy_ost.mp3")
+pygame.mixer.music.load("assets/mario_galaxy_ost.mp3")
 pygame.mixer.music.set_volume(0.5)
 pygame.mixer.music.play(-1)
 
 #Set images
-player_image = pygame.image.load("eye.png")
+player_image = pygame.image.load("assets/eye.png")
 player_image = pygame.transform.scale(player_image, (64, 64))
 player_rect = player_image.get_rect()
 player_rect.left = 32

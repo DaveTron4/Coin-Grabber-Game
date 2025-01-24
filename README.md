@@ -27,14 +27,14 @@ To play the game locally, follow these steps:
 
 2. Install the required dependencies: Ensure you have Python installed. Then, install Pygame:
 
-  ```bash
-  pip install pygame
-  ```
+    ```bash
+    pip install pygame
+    ```
 
 3. Run the game:    
-  ```bash
-  python main.py
-  ```
+    ```bash
+    python main.py
+    ```
 
 ## 🎓 Learning Outcome
 
@@ -46,7 +46,7 @@ This project helped me:
 
 ## 🖼️ Screenshot
 
-_(Add a screenshot of your game here to make the README more engaging.)_
+![alt text](image.png)
 
 ## 📜 License
 
