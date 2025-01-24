@@ -46,7 +46,7 @@ This project helped me:
 
 ## 🖼️ Screenshot
 
-![alt text](image.png)
+![alt text](assets/image.png)
 
 ## 📜 License
 
